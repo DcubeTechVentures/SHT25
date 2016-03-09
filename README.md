@@ -62,4 +62,4 @@ Verify and flash the code on your Photon. Code output is shown in logs at dashbo
 
 https://dashboard.particle.io/user/logs
 
-###### The code output is the relative humidity in %RH and temperature reading in degree celsius and fahrenheit.
+#####The code output is the relative humidity in %RH and temperature reading in degree celsius and fahrenheit.
