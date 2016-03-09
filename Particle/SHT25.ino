@@ -15,7 +15,7 @@ void setup()
 {
     // Set variable
     Particle.variable("i2cdevice", "SHT25");
-  Particle.variable("humidity", humidity);
+    Particle.variable("humidity", humidity);
     Particle.variable("cTemp", cTemp);
   
     // Initialise I2C communication as MASTER 
