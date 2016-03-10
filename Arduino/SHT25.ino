@@ -20,7 +20,7 @@ void setup()
 
 void loop()
 {
-  byte data[2];
+  unsigned int data[2];
   // Start I2C transmission
   Wire.beginTransmission(Addr);
   // Send humidity measurement command, NO HOLD master
